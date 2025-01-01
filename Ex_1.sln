@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex_1", "Ex_1.vcxproj", "{788083E5-3C29-4D79-856E-F7B32721364A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		D28A|x86 = D28A|x86
+		D29_DLL|x86 = D29_DLL|x86
+		D29U|x86 = D29U|x86
+		D31U|x86 = D31U|x86
+		D32|x86 = D32|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{788083E5-3C29-4D79-856E-F7B32721364A}.D28A|x86.ActiveCfg = D28|Win32
+		{788083E5-3C29-4D79-856E-F7B32721364A}.D28A|x86.Build.0 = D28|Win32
+		{788083E5-3C29-4D79-856E-F7B32721364A}.D29_DLL|x86.ActiveCfg = D29|Win32
+		{788083E5-3C29-4D79-856E-F7B32721364A}.D29_DLL|x86.Build.0 = D29|Win32
+		{788083E5-3C29-4D79-856E-F7B32721364A}.D29U|x86.ActiveCfg = D29U|Win32
+		{788083E5-3C29-4D79-856E-F7B32721364A}.D29U|x86.Build.0 = D29U|Win32
+		{788083E5-3C29-4D79-856E-F7B32721364A}.D31U|x86.ActiveCfg = D31U|Win32
+		{788083E5-3C29-4D79-856E-F7B32721364A}.D31U|x86.Build.0 = D31U|Win32
+		{788083E5-3C29-4D79-856E-F7B32721364A}.D32|x86.ActiveCfg = D32|Win32
+		{788083E5-3C29-4D79-856E-F7B32721364A}.D32|x86.Build.0 = D32|Win32
+		{788083E5-3C29-4D79-856E-F7B32721364A}.Release|x86.ActiveCfg = Release|Win32
+		{788083E5-3C29-4D79-856E-F7B32721364A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
